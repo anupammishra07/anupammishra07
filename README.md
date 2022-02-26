@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anupammishra07
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning machine learning and deep learning
-- 💞️ I’m am working on various projects.
+- 💞️ I’m am working on Time series projects.
 - 📫 instagram profile anupam_0_7.
 
 <!---
